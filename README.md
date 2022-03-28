@@ -4,12 +4,12 @@
 ## In this project we will cover
 
 - How to create Tabbar
-- How to set diffrent Tabs and diffrent screens in Tab
+- How to set different Tabs and different screens in Tab
 - List
 - ListTile
 - ListBuilder
-- How to navigate in diffrent screens
-- How to define Navigation route
+- How to navigate on different screens
+- How to define the Navigation route
 - How to use SingleChildScrollView
 
 
